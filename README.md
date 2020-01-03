@@ -16,7 +16,7 @@ $export FLASK_APP=app.py
 $flask run
 ```
 
-...and run for the testing script, use a different terminal:
+...and run for the testing script the following snippets, using a different terminal:
 
 ```console
 $cd reposity
