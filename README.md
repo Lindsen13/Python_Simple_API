@@ -4,6 +4,7 @@ Build with Flask. Based on code snippets from  https://flask-httpauth.readthedoc
 
 ```console
 $cd reposity
+$python3 -m venv env
 ```
 ```console
 $python3 -m venv env
