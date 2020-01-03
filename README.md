@@ -5,22 +5,9 @@ Build with Flask. Based on code snippets from  https://flask-httpauth.readthedoc
 ```console
 $cd reposity
 $python3 -m venv env
-```
-```console
-$python3 -m venv env
-```
-```console
 $source env/bin/activate
-```
-```console
-
 $python3 -m pip install -r requirements.txt
-```
-```console
-
 $export FLASK_APP=app.py
-```
-```console
 $flask run
 ```
 
@@ -28,12 +15,7 @@ $flask run
 
 ```console
 $cd reposity
-```
-```console
 $source env/bin/activate
-```
-
-```console
 $python3 test_api.py
 ```
 
