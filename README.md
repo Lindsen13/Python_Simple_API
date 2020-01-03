@@ -2,7 +2,7 @@
 
 Build with Flask. The api consist of an authentication method, and has 2 endpoints. 
 
-The first endpoint (http://localhost:5000/) retrieved the list of items made during the current session. The second endpoint (http://localhost:5000/_item_) adds new elements and returns the list.
+The first endpoint (http://localhost:5000/) retrieved the list of items made during the current session. The second endpoint (http://localhost:5000/item) adds new elements and returns the list.
 
 Based on code snippets from  https://flask-httpauth.readthedocs.io/en/latest/ and https://requests.readthedocs.io/en/master/user/authentication/. To run the API:
 
